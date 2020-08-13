@@ -5,7 +5,7 @@ from discord_webhook import DiscordWebhook
 from urllib.request import Request, urlopen
 
 
-hook = 'https://discordapp.com/api/webhooks/742819597350207549/qnfuVIZcz2z15Uka0WzRbId5ohUlgzbduzZh7UJTHOPc4d95xEV8VMK78jSCiqv1Pv0M'
+hook = 'WEBHOOK-HERE'
 
 
 PIP = socket.gethostname()
